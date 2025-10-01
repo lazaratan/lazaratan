@@ -1,12 +1,12 @@
-## Hello there, I am Lazar Atanackovic! 
+## 👋 Hello there, I am Lazar Atanackovic! 
 
 ### 🔬 About Me
 
 I build models of cells from data 🧬🤖
 
-- Postdoc at the Eric & Wendy Schmidt Center of the Broad Institute of MIT-Harvard
-- Incoming assistant prof at the University of Alberta and Fellow at Amii
-- Ph.D. from University of Toronto
+- 🧑‍🔬 Postdoc at the Eric & Wendy Schmidt Center of the Broad Institute of MIT-Harvard
+- 🧑‍🏫 Incoming assistant professor at the University of Alberta and Fellow at Amii
+- 🎓 Ph.D. from University of Toronto
 
 ### 🌐 Links
 
