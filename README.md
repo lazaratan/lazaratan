@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm Lazar Atanackovic! 
+## Hello there, I am Lazar Atanackovic! 
 
 ### 🔬 About Me
 
