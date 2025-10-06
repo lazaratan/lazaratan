@@ -2,7 +2,7 @@
 
 ### 🔬 About Me
 
-I build models of cells from data 🧬🤖
+ML for bio 🧬🤖
 
 - 🧑‍🔬 Postdoc at the Eric & Wendy Schmidt Center of the Broad Institute of MIT-Harvard
 - 🧑‍🏫 Incoming assistant professor at the University of Alberta and Fellow at Amii
