@@ -4,13 +4,13 @@
 
 ML for bio 🧬🤖
 
-- 🧑‍🔬 Postdoc at the Eric & Wendy Schmidt Center of the Broad Institute of MIT-Harvard
-- 🧑‍🏫 Incoming assistant professor at the University of Alberta and Fellow at Amii
-- 🎓 Ph.D. from University of Toronto
+- 🧑‍🏫 Assistant Professor at the University of Alberta
+- 🧑‍🔬 Research Fellow at Amii (Alberta Machine Intelligence Institute) 
+- 🎓 Ph.D. from University of Toronto, Postdoc at the Broad Institute of MIT-Harvard
 
 ### 🌐 Links
 
-- 🏠 [Personal Website](https://lazaratan.github.io/)
+- 🏠 [Lab Website](https://lazaratan.github.io/)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=qhTWIh4AAAAJ)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lazar-atanackovic-8b4b3a5b/)
 
